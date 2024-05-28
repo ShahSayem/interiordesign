@@ -1,2 +1,3 @@
 # interior Design 
-It is a very basic Interior Design project using row HTML, CSS, JavaScript. 
+Live website: https://shahsayem.github.io/interiordesign/
+It is a very basic Interior Design project using row HTML, CSS, and JavaScript. 
