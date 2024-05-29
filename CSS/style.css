@@ -47,6 +47,7 @@ li {
 
 .left-flex {
   background-color: var(--myorange);
+  z-index: 1;
   text-align: left;
   padding-left: 35px;
   color: white;
